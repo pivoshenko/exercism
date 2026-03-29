@@ -6,9 +6,6 @@
   </a>
 </p>
 
-- [My Exercism Solutions](#my-exercism-solutions)
-  - [Overview](#overview)
-
 ## Overview
 
 [exercism.org](https://exercism.org) is a free online platform that helps people learn and practice coding through interactive exercises and mentorship. It supports over 60 programming languages and provides structured learning paths, challenges, and real-world projects.
