@@ -10,7 +10,6 @@ pub fn wines_from_country(wines: List(Wine), country: String) -> List(Wine) {
   |> list.filter(fn(wine) { wine.country == country })
 }
 
-// Please define the required labelled arguments for this function
 pub fn filter(
   wines: List(Wine),
   country fl_country: String,
