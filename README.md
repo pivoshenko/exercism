@@ -8,4 +8,4 @@
 
 ## Overview
 
-[exercism.org](https://exercism.org) is a free online platform that helps people learn and practice coding through interactive exercises and mentorship. It supports over 60 programming languages and provides structured learning paths, challenges, and real-world projects.
+[exercism.org](https://exercism.org) is a free online platform for learning and practicing programming through interactive exercises and mentorship. It covers over 60 languages, each organized into a learning path with challenges and real-world projects.
