@@ -13,10 +13,10 @@ lint:
 test:
     for dir in gleam/*/; do (cd "$dir" && gleam test); done
 
+test-exercise EXERCISE:
+    cd gleam/{{ EXERCISE }} && gleam test
+
 check: lint test
 
 update:
     for dir in gleam/*/; do (cd "$dir" && gleam deps update); done
-
-solve exercise:
-    cd gleam/{{ exercise }} && gleam test
