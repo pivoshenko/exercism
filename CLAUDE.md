@@ -22,7 +22,7 @@ just update    # gleam deps update in every exercise
 Work on a single exercise (the normal loop — `just test` compiles all 39 projects and is slow):
 
 ```sh
-just solve two-fer                    # cd gleam/two-fer && gleam test
+just test-exercise two-fer                    # cd gleam/two-fer && gleam test
 cd gleam/two-fer && gleam test        # equivalent
 cd gleam/two-fer && gleam format      # format just this one
 ```
